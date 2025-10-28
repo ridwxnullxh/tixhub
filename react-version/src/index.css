@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Toastify_toast {
+  border-radius: 10px !important;
+  font-weight: 500;
+}
